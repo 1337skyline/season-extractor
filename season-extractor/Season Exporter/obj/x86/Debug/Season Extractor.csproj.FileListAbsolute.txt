@@ -1,0 +1,13 @@
+E:\Projects\XP\season-extractor\Season Exporter\bin\Debug\Season Extractor.exe.manifest
+E:\Projects\XP\season-extractor\Season Exporter\bin\Debug\Season Extractor.application
+E:\Projects\XP\season-extractor\Season Exporter\bin\Debug\Season Extractor.exe
+E:\Projects\XP\season-extractor\Season Exporter\bin\Debug\Season Extractor.pdb
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season_Extractor.Main.resources
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season_Extractor.Properties.Resources.resources
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.exe.manifest
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.application
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.exe
+E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.pdb
