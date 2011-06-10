@@ -9,7 +9,7 @@ namespace Season_Extractor
     public partial class Main : Form
     {
         int i;
-        string sDir, xTractPath;
+        string sDir, xTractPath, RorP;
         bool TF = false;
 
         public Main()
@@ -21,9 +21,12 @@ namespace Season_Extractor
 
         public void DirSearch(string sDir)
         {
+
+            RorP = RorPC.SelectedItem.ToString();
+
             foreach (string d in Directory.GetDirectories(sDir))
             {
-                foreach (string f in Directory.GetFiles(d, @"*.rar"))
+                foreach (string f in Directory.GetFiles(d, RorP))
                 {
                     FilesInsDir.Items.Add(f);
                     Console.WriteLine(f);
