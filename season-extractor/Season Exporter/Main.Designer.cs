@@ -37,6 +37,7 @@
             this.SlctAllBtn = new System.Windows.Forms.Button();
             this.DSlctAllBtn = new System.Windows.Forms.Button();
             this.OpenPathCheck = new System.Windows.Forms.CheckBox();
+            this.RorPC = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // xTract
@@ -60,9 +61,9 @@
             // 
             // SrcButton
             // 
-            this.SrcButton.Location = new System.Drawing.Point(130, 20);
+            this.SrcButton.Location = new System.Drawing.Point(197, 20);
             this.SrcButton.Name = "SrcButton";
-            this.SrcButton.Size = new System.Drawing.Size(103, 23);
+            this.SrcButton.Size = new System.Drawing.Size(71, 23);
             this.SrcButton.TabIndex = 4;
             this.SrcButton.Text = "Search";
             this.SrcButton.UseVisualStyleBackColor = true;
@@ -117,11 +118,23 @@
             this.OpenPathCheck.Text = "Open path after extraction";
             this.OpenPathCheck.UseVisualStyleBackColor = true;
             // 
+            // RorPC
+            // 
+            this.RorPC.FormattingEnabled = true;
+            this.RorPC.Items.AddRange(new object[] {
+            "*.rar",
+            "*.part01.rar"});
+            this.RorPC.Location = new System.Drawing.Point(130, 20);
+            this.RorPC.Name = "RorPC";
+            this.RorPC.Size = new System.Drawing.Size(61, 21);
+            this.RorPC.TabIndex = 12;
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(748, 436);
+            this.Controls.Add(this.RorPC);
             this.Controls.Add(this.OpenPathCheck);
             this.Controls.Add(this.DSlctAllBtn);
             this.Controls.Add(this.SlctAllBtn);
@@ -148,6 +161,7 @@
         private System.Windows.Forms.Button SlctAllBtn;
         private System.Windows.Forms.Button DSlctAllBtn;
         private System.Windows.Forms.CheckBox OpenPathCheck;
+        private System.Windows.Forms.ComboBox RorPC;
     }
 }
 
