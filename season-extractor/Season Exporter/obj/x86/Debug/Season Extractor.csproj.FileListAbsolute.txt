@@ -11,3 +11,5 @@ E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.e
 E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.application
 E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.exe
 E:\Projects\XP\season-extractor\Season Exporter\obj\x86\Debug\Season Extractor.pdb
+E:\Projects\XP\Season Exporter\obj\x86\Debug\Season Extractor.exe
+E:\Projects\XP\Season Exporter\obj\x86\Debug\Season Extractor.pdb

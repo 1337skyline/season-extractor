@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Season Extractor.exe" size="436736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Season Extractor.exe" size="437248">
       <assemblyIdentity name="Season Extractor" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QnVJQwLO0jVqh0g8994uptBMz6k=</dsig:DigestValue>
+        <dsig:DigestValue>zvc0XiXyhCEGpsVRjCU3STGIuzk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
